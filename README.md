@@ -58,8 +58,7 @@ The project file contains a set of exercises related to Matplotlib. These exerci
 ## 4. Submitting Your Work
 
 ### Submission Guidelines
-1. Save your completed project file with all solutions in the `src` folder.  
-   - Recommended filename: `matplotlib_exercises_solution.ipynb`.
+1. Save your completed project file with all solutions in the `src` folder. 
 2. Ensure all cells are executed, and outputs are visible in the notebook.
 3. Push your updated `src` folder to the repository.
 
