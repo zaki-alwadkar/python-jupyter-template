@@ -49,7 +49,7 @@ The project file contains a set of exercises related to Matplotlib. These exerci
 
 ### Steps to Complete the Project
 1. Open the project file:
-   - File: `project/project.ipynb`
+   - File: `project/matplotlib-exercise.ipynb`
 2. Carefully read the instructions for each exercise.
 3. Complete the exercises by writing your solutions in the code cells provided.
 
