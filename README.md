@@ -48,8 +48,7 @@ Before diving into the project exercises, it's essential to complete the activit
 The project file contains a set of exercises related to Matplotlib. These exercises build on the skills you developed in the activities and are meant to test your understanding and creativity.
 
 ### Steps to Complete the Project
-1. Open the project file:
-   - File: `project/matplotlib-exercise.ipynb`
+1. Open the src folder.
 2. Carefully read the instructions for each exercise.
 3. Complete the exercises by writing your solutions in the code cells provided.
 
@@ -58,9 +57,9 @@ The project file contains a set of exercises related to Matplotlib. These exerci
 ## 4. Submitting Your Work
 
 ### Submission Guidelines
-1. Save your completed project file with all solutions in the `src` folder. 
+1. Save your completed exercise files with  solution in the `src` folder. 
 2. Ensure all cells are executed, and outputs are visible in the notebook.
-3. Push your updated `src` folder to the repository.
+3. Push your updated exercise files to the repository.
 
 
 ### Goal
