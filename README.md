@@ -42,10 +42,10 @@ Before diving into the project exercises, it's essential to complete the activit
 
 ---
 
-## 3. Project: Exercises on Matplotlib
+## 3. Exercises on Matplotlib
 
 ### Overview
-The project file contains a set of exercises related to Matplotlib. These exercises build on the skills you developed in the activities and are meant to test your understanding and creativity.
+The src folder contains a set of exercises related to Matplotlib. These exercises build on the skills you developed in the activities and are meant to test your understanding and creativity.
 
 ### Steps to Complete the Project
 1. Open the src folder.
